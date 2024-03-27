@@ -1,4 +1,4 @@
-## Lab Report 10 - Data Informatics ## 
+# Lab Report 10 - Data Informatics
 
 Isaac Stevens
 
